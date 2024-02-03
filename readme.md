@@ -1,7 +1,5 @@
 # Autonomous Mapping Car Project
 
-![Project Image](image.jpg)
-
 ## Overview
 
 This project involves building an autonomous mapping car powered by Arduino and Raspberry Pi. The system uses various sensors and components to navigate and create a 2D map of the environment.
@@ -37,3 +35,4 @@ All the collected data is used to create a simple 2D map (top view) of the explo
 - Implement advanced pathfinding algorithms for optimal navigation.
 - Enhance obstacle detection algorithms for more complex environments.
 
+![Project Image](image.jpg)
