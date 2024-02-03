@@ -1,4 +1,4 @@
-# Autonomous Mapping Car Project
+# Autonomous Mapping Car
 
 ## Overview
 
