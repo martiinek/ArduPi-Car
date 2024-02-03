@@ -1,6 +1,6 @@
 # Autonomous Mapping Car Project
 
-![Project Image](image.png)
+![Project Image](image.jpg)
 
 ## Overview
 
